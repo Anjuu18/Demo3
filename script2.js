@@ -1,1 +1,1 @@
-console.log("I am fron file two")
+console.log("I am from file two")
